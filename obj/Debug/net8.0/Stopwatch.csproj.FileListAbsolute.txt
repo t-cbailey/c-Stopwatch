@@ -1,0 +1,14 @@
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/bin/Debug/net8.0/Stopwatch
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/Users/timbailey/coding/CSharpIntermediate/MyProjects/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
